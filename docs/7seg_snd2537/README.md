@@ -1,12 +1,13 @@
-Seven-Segment LED - SND2536
+Seven-Segment LED - SND2537
 ===============
 Seven-Segment LED Arduino Shield.
 
 ## Document
-SND2536 Pin Assignment : snd2536.pdf
+- snd2537.pdf 
+SND2537 Pin Assignment 
 
 ## Blog (in Japanese)
 http://android.ohwada.jp/archives/5572
 
 ## Photo
-![photo](https://raw.githubusercontent.com/ohwada/ArduinoShield/master/docs/7seg_snd2536/pcb.png)
+![photo](https://raw.githubusercontent.com/ohwada/ArduinoShield/master/docs/7seg_snd2537/pcb.png)
