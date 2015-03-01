@@ -1,6 +1,9 @@
 Arduino Shield
 ===============
 
+Eaale data for Milling machine <br>
+Arduino skech <br>
+
 ### Seven-Segment LED - SND2537
 ![photo](https://raw.githubusercontent.com/ohwada/ArduinoShield/master/docs/7seg_snd2537/pcb.png)
 
