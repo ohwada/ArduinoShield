@@ -1,7 +1,7 @@
 Arduino Shield
 ===============
 
-Eaale data for Milling machine <br>
+Eagle data for Milling machine <br>
 Arduino skech <br>
 
 ### LED 3x3 Matrix No1
