@@ -16,6 +16,6 @@ https://github.com/ohwada/ArduinoShield/tree/master/docs/led_3x3_2/ <br>
 https://github.com/ohwada/ArduinoShield/tree/master/docs/7seg_snd2537/ <br>
 <img src="https://raw.githubusercontent.com/ohwada/ArduinoShield/master/docs/7seg_snd2537/pcb.png" width="200" />
 
-### LED Button
+### LED Button controlled by Serial
 https://github.com/ohwada/ArduinoShield/tree/master/docs/led_button_1/ <br>
 <img src="https://raw.githubusercontent.com/ohwada/ArduinoShield/master/docs/led_button_1/pcb.png" width="200" />
