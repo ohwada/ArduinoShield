@@ -12,6 +12,10 @@ https://github.com/ohwada/ArduinoShield/tree/master/docs/led_3x3_1/ <br>
 https://github.com/ohwada/ArduinoShield/tree/master/docs/led_3x3_2/ <br>
 <img src="https://raw.githubusercontent.com/ohwada/ArduinoShield/master/docs/led_3x3_2/pcb.png" width="200" />
 
+### LED 3x3 Matrix No3
+https://github.com/ohwada/ArduinoShield/tree/master/docs/led_3x3_3/ <br>
+<img src="https://raw.githubusercontent.com/ohwada/ArduinoShield/master/docs/led_3x3_3/pcb_front.png" width="200" />
+
 ### Seven-Segment LED - SND2537
 https://github.com/ohwada/ArduinoShield/tree/master/docs/7seg_snd2537/ <br>
 <img src="https://raw.githubusercontent.com/ohwada/ArduinoShield/master/docs/7seg_snd2537/pcb.png" width="200" />

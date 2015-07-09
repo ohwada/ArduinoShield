@@ -1,4 +1,7 @@
-// 2014-05-05 K.OHWADA
+/*
+ * LED 3x3 : random pattern
+ * 2014-05-05 K.OHWADA
+ */
 
 // pin define
 int ANODE_PIN[3]   = { 2, 3, 4 };
