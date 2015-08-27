@@ -10,4 +10,4 @@ SND2537 Pin Assignment
 http://android.ohwada.jp/archives/5572
 
 ## Photo
-![photo](https://raw.githubusercontent.com/ohwada/ArduinoShield/master/docs/7seg_snd2537/pcb.png)
+<img src="https://raw.githubusercontent.com/ohwada/ArduinoShield/master/docs/7seg_snd2537/pcb.png" width="400" />
