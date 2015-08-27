@@ -9,4 +9,4 @@ http://android.ohwada.jp/archives/5929
 
 ## Photo
 Arduino Shield with Bluetooth Adapter <br>
-![photo](https://raw.githubusercontent.com/ohwada/ArduinoShield/master/docs/led_button_1/pcb.png)
+<img src="https://raw.githubusercontent.com/ohwada/ArduinoShield/master/docs/led_button_1/pcb.png" width="400" />
