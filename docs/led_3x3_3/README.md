@@ -10,4 +10,4 @@ Board is devised, all wiring are on bottom.
 http://android.ohwada.jp/archives/6018
 
 ## Photo
-![photo](https://raw.githubusercontent.com/ohwada/ArduinoShield/master/docs/led_3x3_3/pcb_front.png)
+<img src="https://raw.githubusercontent.com/ohwada/ArduinoShield/master/docs/led_3x3_3/pcb_front.png" width="400" />
